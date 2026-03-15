@@ -1,8 +1,5 @@
 # 🤖IESL-RoboGames-2025-Round1-TaskColor-Guided-Maze-Solving-Robot-Webots
 A simulated autonomous robot built using the Webots platform that navigates through a maze, detects colored checkpoints, and follows a predefined mission sequence using sensor feedback and camera-based color detection.
----
-
-#  Color-Guided Maze Solving Robot (Webots Simulation)
 
 This project was developed as part of the **RoboGames 2024 – University Category Completion Round**, where the goal was to design a robot capable of navigating an unknown maze and visiting colored walls in a specific order.
 
