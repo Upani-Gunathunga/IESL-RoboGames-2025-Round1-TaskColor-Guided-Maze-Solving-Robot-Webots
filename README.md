@@ -148,11 +148,3 @@ Developed collaboratively by:
 
 ---
 
-
-If you want, I can also give you **3 things that will make this README look much more professional on GitHub**:
-
-* a **GitHub banner image**
-* **badges (Webots, C, Robotics, Simulation)**
-* a **diagram explaining the robot logic**
-
-Those make student robotics repos look **10× better**.
