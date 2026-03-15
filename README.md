@@ -118,7 +118,7 @@ The robot uses this information to decide when to execute the **next turn in its
 
 ## 🎥 Demonstration Video
 
-[Watch the demo video](Navigation_VideoDEMO.gif)
+![VideoDEMO](Navigation_VideoDEMO.gif)
 
 
 ---
